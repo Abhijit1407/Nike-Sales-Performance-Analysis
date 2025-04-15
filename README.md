@@ -162,18 +162,11 @@ nike-sales-performance-analysis/
 │       ├── faceted_scatter_online_sales_by_region.png
 │       ├── histogram_units_sold.png
 │       ├── qqplot_units_sold.png
-│       ├── kruskal_wallis_seasonality.png
 │       ├── seasonal_boxplot_by_region.png
 │       ├── barplot_total_revenue_by_season_region.png
 │       ├── bar_best_season_by_region.png
-│       ├── glm_coefficients_internal.png
-│       ├── glm_coefficients_external.png
 │       ├── ridge_cv_plot.png
-│       ├── lasso_cv_plot.png
-│       ├── ridge_coefficients_plot.png
-│       ├── lasso_coefficients_plot.png
-│       └── rmse_comparison_plot.png
-│
+│       ├── lasso_cv_plot.png│
 └── report/
     └── Nike_Sales_Performance_Analysis_Report.pdf
     # Final PDF report with all results and interpretations
