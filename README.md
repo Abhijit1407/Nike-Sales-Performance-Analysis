@@ -166,7 +166,7 @@ nike-sales-performance-analysis/
 │       ├── barplot_total_revenue_by_season_region.png
 │       ├── bar_best_season_by_region.png
 │       ├── ridge_cv_plot.png
-│       ├── lasso_cv_plot.png│
+│       ├── lasso_cv_plot.png
 └── report/
     └── Nike_Sales_Performance_Analysis_Report.pdf
     # Final PDF report with all results and interpretations
